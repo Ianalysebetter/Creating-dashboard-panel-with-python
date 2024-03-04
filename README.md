@@ -1,4 +1,4 @@
-# python-dashboard-panel
+# python-dashboard-panel for Data Visualization 
 ### Interactive visualization dashboard in Python with Panel
 
 
